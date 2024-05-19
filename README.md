@@ -11,4 +11,4 @@ This is a [Streamlit](https://streamlit.io/) web application that makes predicti
 [Check it out!]()
 
 ### Dataset link
-[Diabetes Dataset for Beginners](https://www.kaggle.com/datasets/shantanudhakadd/diabetes-dataset-for-beginners)
+[Diabetes Dataset for Beginners](diabetes.csv)
